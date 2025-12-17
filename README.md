@@ -1,16 +1,19 @@
-## Hi there 👋
+## Rahul R — DevOps Engineer
 
-<!--
-**Rahulkavya143/Rahulkavya143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design and automate cloud infrastructure using Infrastructure as Code
+and build CI/CD pipelines for reliable application delivery.
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- Cloud: AWS
+- IaC: Terraform
+- CI/CD: Jenkins, GitHub Actions
+- Containers: Docker
+- Monitoring: Prometheus, Alertmanager
+- OS & Tools: Linux, Git, Bash
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+- Multi-tier AWS infrastructure using Terraform modules
+- CI/CD pipeline for a React application deployed on AWS EC2
+- Monitoring and alerting stack using Prometheus
+
+Focused on reproducibility, security, and automation.
