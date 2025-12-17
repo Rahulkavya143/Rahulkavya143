@@ -1,7 +1,7 @@
 ## Rahul R — DevOps Engineer
 
 I design and automate cloud infrastructure using Infrastructure as Code
-and build CI/CD pipelines for reliable application delivery.
+and build CI/CD pipelines for reliable and scalable application delivery.
 
 ### 🔧 Tech Stack
 - Cloud: AWS
@@ -12,8 +12,8 @@ and build CI/CD pipelines for reliable application delivery.
 - OS & Tools: Linux, Git, Bash
 
 ### 🚀 Featured Projects
-- Multi-tier AWS infrastructure using Terraform modules
-- CI/CD pipeline for a React application deployed on AWS EC2
-- Monitoring and alerting stack using Prometheus
+- Modular multi-tier AWS infrastructure provisioned with Terraform
+- CI/CD pipeline for deploying a React application on AWS EC2
+- Monitoring and alerting stack implemented with Prometheus and Alertmanager
 
 Focused on reproducibility, security, and automation.
