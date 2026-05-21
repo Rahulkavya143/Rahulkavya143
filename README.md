@@ -1,19 +1,25 @@
-## Rahul R — DevOps Engineer
+# Hi, I'm Rahul 👋
 
-I design and automate cloud infrastructure using Infrastructure as Code
-and build CI/CD pipelines for reliable and scalable application delivery.
+## Data Analyst | Financial Reporting | Dashboard Analytics
 
-### 🔧 Tech Stack
-- Cloud: AWS
-- IaC: Terraform
-- CI/CD: Jenkins, GitHub Actions
-- Containers: Docker
-- Monitoring: Prometheus, Alertmanager
-- OS & Tools: Linux, Git, Bash
+Experienced in:
+- Financial Data Analysis
+- MIS Reporting
+- Dashboard Creation
+- Advanced Excel
+- Google Sheets
+- SQL
+- Power BI
 
-### 🚀 Featured Projects
-- Modular multi-tier AWS infrastructure provisioned with Terraform
-- CI/CD pipeline for deploying a React application on AWS EC2
-- Monitoring and alerting stack implemented with Prometheus and Alertmanager
+## Tools & Technologies
+- MS Excel
+- Google Sheets
+- SQL
+- Power BI
+- Power Query
 
-Focused on reproducibility, security, and automation.
+## Current Focus
+- Business Intelligence
+- Financial Analytics
+- Reporting Automation
+- Data Visualization
