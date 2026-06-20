@@ -1,74 +1,61 @@
-# Hi, I'm Rahul 👋
+# Hi there, I'm Rahul 👋
 
-## Data Analyst | SQL | Power BI | Excel | Business Intelligence
+## 📊 Data Analyst | SQL | Power BI | Excel
 
-I am passionate about transforming raw data into meaningful business insights through SQL, Power BI, and analytical reporting.
-
----
-
-## Skills
-
-### Data Analysis
-
-* SQL
-* Microsoft SQL Server
-* Power BI
-* Microsoft Excel
-* Power Query
-
-### Business Intelligence
-
-* KPI Reporting
-* Dashboard Development
-* Trend Analysis
-* Data Cleaning
-* Data Modeling
+Transforming raw data into meaningful insights through SQL, Power BI, and Business Intelligence.
 
 ---
 
-## Projects
+## 🛠️ Tech Stack
+
+🔹 SQL Server  
+🔹 MySQL  
+🔹 Power BI  
+🔹 Excel  
+🔹 Power Query  
+🔹 Git & GitHub
+
+---
+
+## 🚀 Featured Projects
 
 ### 🍕 Pizza Sales Analytics Dashboard
+📌 SQL + Power BI
+📊 KPI Reporting
+📈 Trend Analysis
+🏆 Best & Worst Seller Analysis
 
-* SQL + Power BI
-* KPI Reporting
-* Trend Analysis
-* Best & Worst Seller Analysis
+---
 
 ### 🚚 Swiggy Sales Analysis using SQL Server
-
-* Data Cleaning & Validation
-* Star Schema Modeling
-* Fact & Dimension Tables
-* Business KPI Analysis
-* Trend Analysis
-* Customer Spending Segmentation
+🧹 Data Cleaning
+⭐ Star Schema Modeling
+📊 KPI Reporting
+📈 Business Insights
 
 ---
 
-## Tools & Technologies
-
-* SQL Server
-* Power BI
-* Excel
-* Power Query
-* GitHub
-
----
-
-## Current Focus
-
-* Advanced SQL
-* Data Warehousing
-* Business Intelligence
-* Real-World Analytics Projects
+### 📚 SQL Practice Repository
+🔗 Joins
+🔗 Subqueries
+🔗 Window Functions
+🔗 CTEs
+🔗 Real-world Business Scenarios
 
 ---
 
-### Connect with Me
+## 🌱 Currently Learning
 
-📧 [rahulrangasami01@gmail.com](mailto:rahulrangasami01@gmail.com)
-🔗 LinkedIn: www.linkedin.com/in/rahulr-analyst
+🔥 Advanced SQL  
+🔥 Data Warehousing  
+🔥 Power BI  
+🔥 Business Intelligence
 
-🔗 LinkedIn:
-https://www.linkedin.com/in/rahulr-analyst
+---
+
+## 📫 Connect With Me
+
+www.linkedin.com/in/rahulr-analyst
+
+💼 LinkedIn: linkedin.com/in/rahulr-analyst
+📧 Email: rahulrangasami01@gmail.com
