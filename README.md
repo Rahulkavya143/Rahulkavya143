@@ -68,6 +68,7 @@ I am passionate about transforming raw data into meaningful business insights th
 ### Connect with Me
 
 📧 [rahulrangasami01@gmail.com](mailto:rahulrangasami01@gmail.com)
+🔗 LinkedIn: www.linkedin.com/in/rahulr-analyst
 
 🔗 LinkedIn:
 https://www.linkedin.com/in/rahulr-analyst
