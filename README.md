@@ -1,25 +1,73 @@
 # Hi, I'm Rahul 👋
 
-## Data Analyst | Financial Reporting | Dashboard Analytics
+## Data Analyst | SQL | Power BI | Excel | Business Intelligence
 
-Experienced in:
-- Financial Data Analysis
-- MIS Reporting
-- Dashboard Creation
-- Advanced Excel
-- Google Sheets
-- SQL
-- Power BI
+I am passionate about transforming raw data into meaningful business insights through SQL, Power BI, and analytical reporting.
+
+---
+
+## Skills
+
+### Data Analysis
+
+* SQL
+* Microsoft SQL Server
+* Power BI
+* Microsoft Excel
+* Power Query
+
+### Business Intelligence
+
+* KPI Reporting
+* Dashboard Development
+* Trend Analysis
+* Data Cleaning
+* Data Modeling
+
+---
+
+## Projects
+
+### 🍕 Pizza Sales Analytics Dashboard
+
+* SQL + Power BI
+* KPI Reporting
+* Trend Analysis
+* Best & Worst Seller Analysis
+
+### 🚚 Swiggy Sales Analysis using SQL Server
+
+* Data Cleaning & Validation
+* Star Schema Modeling
+* Fact & Dimension Tables
+* Business KPI Analysis
+* Trend Analysis
+* Customer Spending Segmentation
+
+---
 
 ## Tools & Technologies
-- MS Excel
-- Google Sheets
-- SQL
-- Power BI
-- Power Query
+
+* SQL Server
+* Power BI
+* Excel
+* Power Query
+* GitHub
+
+---
 
 ## Current Focus
-- Business Intelligence
-- Financial Analytics
-- Reporting Automation
-- Data Visualization
+
+* Advanced SQL
+* Data Warehousing
+* Business Intelligence
+* Real-World Analytics Projects
+
+---
+
+### Connect with Me
+
+📧 [rahulrangasami01@gmail.com](mailto:rahulrangasami01@gmail.com)
+
+🔗 LinkedIn:
+https://www.linkedin.com/in/rahulr-analyst
